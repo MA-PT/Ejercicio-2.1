@@ -1,0 +1,14 @@
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\bin\Debug\netstandard2.1\PictureDB.deps.json
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\bin\Debug\netstandard2.1\PictureDB.dll
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\bin\Debug\netstandard2.1\ref\PictureDB.dll
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\bin\Debug\netstandard2.1\PictureDB.pdb
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\PictureDB.csproj.AssemblyReference.cache
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\PictureDB.AssemblyInfoInputs.cache
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\PictureDB.AssemblyInfo.cs
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\PictureDB.csproj.CoreCompileInputs.cache
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\PictureDB.dll
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\ref\PictureDB.dll
+C:\Users\SelvinM95\source\repos\PictureDB\PictureDB\PictureDB\obj\Debug\netstandard2.1\PictureDB.pdb

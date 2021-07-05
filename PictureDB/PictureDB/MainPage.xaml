@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PictureDB.MainPage">
+     
+    <AbsoluteLayout Margin="5,0,5,5">
+        <FlexLayout IsVisible="True" JustifyContent="SpaceEvenly" Direction="Column" AlignItems="Center" Margin="30,0,30,0" >
+
+            <Image x:Name="Photo" Background="Black" WidthRequest="450" HeightRequest="450"/>
+
+            <Button x:Name="TakePhoto" Clicked="TakePhoto_Clicked"
+                    FontSize="Medium" TextColor="Black" 
+                    BorderColor="Black"
+                    CornerRadius="5" FlexLayout.AlignSelf="Stretch"  
+                    HorizontalOptions="CenterAndExpand" Text="Tomar Foto"></Button>
+
+            <Button x:Name="btnver" IsVisible="true" Clicked="btnver_Clicked"
+                    FontSize="Medium" TextColor="Black" 
+                    BorderColor="Black"
+                    CornerRadius="5" FlexLayout.AlignSelf="Stretch"  
+                    HorizontalOptions="CenterAndExpand" Text="Ver Fotos"></Button>
+
+        </FlexLayout>
+    </AbsoluteLayout>
+
+</ContentPage>
